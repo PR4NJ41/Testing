@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'App_Calc',j
       theme: ThemeData(
 
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.yellow,
       ),
       home: const MyHomePage(title: 'MyCalc'),
     );
