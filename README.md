@@ -1,6 +1,6 @@
 # first_app
 A new Flutter project.
-Date: 24 June 2022
+Date:  24 June 2022
 
 ## Getting Started
 
